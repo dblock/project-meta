@@ -98,3 +98,14 @@
 /trace-analytics/
 /opensearch-plugin-template-java/
 /project-meta/
+/ansible-playbook/
+/cross-cluster-replication/
+/geospatial/
+/helm-charts/
+/opensearch-ci/
+/opensearch-dashboards-functional-test/
+/opensearch-dashboards-test-library/
+/opensearch-go/
+/opensearch-java/
+/opensearch-js/
+/opensearch-py/

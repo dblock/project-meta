@@ -33,6 +33,17 @@
     "sql": "git@github.com:opensearch-project/sql.git",
     "trace-analytics": "git@github.com:opensearch-project/trace-analytics.git",
     "opensearch-plugin-template-java": "git@github.com:opensearch-project/opensearch-plugin-template-java.git",
-    "project-meta": "git@github.com:opensearch-project/project-meta.git"
+    "project-meta": "git@github.com:opensearch-project/project-meta.git",
+    "ansible-playbook": "git@github.com:opensearch-project/ansible-playbook.git",
+    "cross-cluster-replication": "git@github.com:opensearch-project/cross-cluster-replication.git",
+    "geospatial": "git@github.com:opensearch-project/geospatial.git",
+    "helm-charts": "git@github.com:opensearch-project/helm-charts.git",
+    "opensearch-ci": "git@github.com:opensearch-project/opensearch-ci.git",
+    "opensearch-dashboards-functional-test": "git@github.com:opensearch-project/opensearch-dashboards-functional-test.git",
+    "opensearch-dashboards-test-library": "git@github.com:opensearch-project/opensearch-dashboards-test-library.git",
+    "opensearch-go": "git@github.com:opensearch-project/opensearch-go.git",
+    "opensearch-java": "git@github.com:opensearch-project/opensearch-java.git",
+    "opensearch-js": "git@github.com:opensearch-project/opensearch-js.git",
+    "opensearch-py": "git@github.com:opensearch-project/opensearch-py.git"
   }
 }
